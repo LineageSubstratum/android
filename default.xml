@@ -507,4 +507,7 @@
 
   <include name="snippets/cm.xml" />
 
+  <!-- Substratum support -->
+  <include name="snippets/substratum.xml" />
+
 </manifest>
