@@ -639,6 +639,9 @@
 
   <include name="snippets/lineage.xml" />
 
+  <!-- Substratum support -->
+  <include name="snippets/substratum.xml" />
+
   <repo-hooks in-project="platform/tools/repohooks" enabled-list="pre-upload" />
 
 </manifest>
